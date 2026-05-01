@@ -88,7 +88,7 @@ Mode    : [ LEARNING ]  [ BUILDING ]  [ BREAKING (ethically) ]
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:z.haider1504@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zeeshan-haider-3a066a407?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zeeshan-haider-3a066a407?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrzeeshi)
 
 </div>
